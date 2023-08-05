@@ -6,7 +6,7 @@
 
 % load z-scores
 clear all;
-analysis_dir = '/home/uni10/nmri/projects/dgarnica/MRI_EEG_PROSPECTIVE/Rolandic_EEG';
+analysis_dir = 'folder';
 load(fullfile(analysis_dir, 'Z_scores_patients_controls.mat'));
 
 subtests = {'Data','TIQ','SV','VRV','FS','AGD','VG','WLT','Lesefehler','TA','Lesefehler_TA','Woerter'};
