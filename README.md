@@ -1,4 +1,4 @@
-# neuropsychology_related
+# Neuropsychology_related
 Deal with normative scores and others
 
 "dg_PR_Zscore_Tscore_converter.m" Converts Percentile ranks (PR) to Z-scores or T-scores, as indicated. 
