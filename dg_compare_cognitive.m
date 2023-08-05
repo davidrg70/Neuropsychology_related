@@ -1,6 +1,6 @@
 % PRs to Z-scores converter (import using .txt files only) Created by David Garnica
 % david.garnica@med.uni-goettingen.de
-% 2022, Universitätsmedizin Göttingen, Neurology Department
+% 2023, Universitätsmedizin Göttingen, Neurology Department
 
 % dg_compare_cognitive
 
