@@ -4,7 +4,7 @@
 clear all;
 
 % Import PRs data first
-filename = '/home/uni10/nmri/projects/dgarnica/EEG_retro_cognitive/Dys_noIEDs_Controls/PRs.txt';
+filename = 'filepath/PRs.txt';
 delimiter = '\t';
 formatSpec = '%f%f%f%f%f%f%f%f%[^\n\r]';
 fileID = fopen(filename,'r');
